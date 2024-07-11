@@ -1,3 +1,9 @@
 <marathon>
 <scenario name="Marathon 2" id="Marathon 2" allow_classic_gameplay="true" />
+<interface>
+<rect index="11" top="304" left="411" bottom="333" right="555"/>
+<rect index="12" top="381" left="217" bottom="413" right="395"/>
+<rect index="13" top="344" left="351" bottom="375" right="508"/>
+<rect index="16" top="263" left="497" bottom="294" right="565"/>
+</interface>
 </marathon>
